@@ -1,0 +1,13 @@
+npm i --D babel-core: babel-loader babel-preset-es2015 
+
+npm i --D autoprefixer  browser-sync del
+
+npm i --D gulp gulp-cssnano gulp-imagemin gulp-modernizr gulp-postcss 
+
+npm i --D gulp-rename gulp-rev 
+
+npm i --D gulp-svg-sprite gulp-svg2png gulp-uglify gulp-usemin gulp-watch 
+
+npm i --D postcss-hexrgba postcss-import postcss-mixins 
+
+npm i --D postcss-nested postcss-simple-vars webpack 
